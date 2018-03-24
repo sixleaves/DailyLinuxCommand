@@ -38,3 +38,13 @@
 
 > find . -type f | xargs grep "hostname"
 
+
+
+## 总结
+
+- 学习 find和 exec配合使用.
+- 学习 find 和 xargs 命令配合使用.
+- 学习如何使用 find 命令查找指定目录文件.
+- 学习使用 find命令查找大文件.
+- 学习使用 find 命令打印包含模糊匹配的文件和文件名匹配文件名和匹配路径
+- 思考 xargs 和 exec 的差别.为什么使用 xargs?
