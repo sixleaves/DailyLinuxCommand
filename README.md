@@ -8,7 +8,7 @@
 
 如果你喜欢我的资源，愿意赠送一给感谢费，我会更高兴。
 
-![IMG_2011](../DailyLinuxCommand/IMG_2011.JPG)
+![IMG_2011](https://github.com/sixleaves/DailyLinuxCommand/blob/master/IMG_2011.JPG)
 
 
 
