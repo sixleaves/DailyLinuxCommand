@@ -14,5 +14,13 @@
 
 
 
+欢迎加入我们的微信讨论群
+
+<figure class="half">
+  <img src="https://github.com/sixleaves/DailyLinuxCommand/blob/master/wechat_group.JPG" width="200px" height="300px" />
+</figure>
+
+
+
 
 
