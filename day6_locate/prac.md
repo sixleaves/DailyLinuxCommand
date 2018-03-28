@@ -95,3 +95,5 @@ locate `[参数]`  `[样式]`
   > ln -s /usr/libexec/locate.updatedb /usr/local/bin/updatedb
 
 - 可以自己配置updatedb命令要添加索引的目录。打开updatedb文件查找SEARCHPATHS配置即可。
+
+  >: ${SEARCHPATHS:="/ $HOME"}  
