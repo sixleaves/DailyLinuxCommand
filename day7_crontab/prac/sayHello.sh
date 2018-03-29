@@ -1,0 +1,2 @@
+#!/bin/sh
+say Hello
