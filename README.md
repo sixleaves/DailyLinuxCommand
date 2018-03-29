@@ -6,7 +6,7 @@
 
 
 
-
+## 鼓励
 如果你喜欢我的资源，愿意赠送一给感谢费，我会更高兴。
 
 <figure class="half">
@@ -15,6 +15,7 @@
 
 
 
+## 组织
 欢迎加入我们的微信讨论群
 
 <figure class="half">
@@ -22,6 +23,14 @@
 </figure>
 
 
+## 以更新命令
+- rm
+- find
+- ln
+- tar
+- whereis
+- locate
+- crontab
 
 
 
