@@ -32,6 +32,7 @@
 - whereis
 - locate
 - crontab
+- service
 
 ## 格式
 - 命令介绍
