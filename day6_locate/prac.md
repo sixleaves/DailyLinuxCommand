@@ -8,8 +8,6 @@
 
 
 
-## 命令格式
-
 locate `[参数]`  `[样式]`
 
 
@@ -27,6 +25,8 @@ locate `[参数]`  `[样式]`
 -r `正则表达式` 基于正则表达式搜索定位文件
 
 
+
+## 使用例子
 
 查找包含/var/lib/dpkg/info的文件
 
@@ -80,9 +80,16 @@ locate `[参数]`  `[样式]`
 
 
 
+## 使用注意
+
+- 如果locate不到对应文件, 可以先调用updatedb更新下索引数据库
+
+
+
 ## 练习
 
-使用locate命令，输出prac文件夹下locatefile.txt的文件路径。
+- 使用locate命令，输出prac文件夹下locatefile.txt的文件路径。
+- 使用updatedb更新文件索引，并将HOME文件夹下的索引也加入。
 
 
 
