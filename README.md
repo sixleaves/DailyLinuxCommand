@@ -25,7 +25,7 @@
 
 
 ## 以更新命令
-- [rm]()
+- [rm](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day1_rm/prac.md)
 - find
 - ln
 - tar
