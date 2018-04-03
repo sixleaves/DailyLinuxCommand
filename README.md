@@ -25,7 +25,7 @@
 
 
 ## 以更新命令
-- ![rm](https://github.com/sixleaves/DailyLinuxCommand/blob/master/wechat_pay.JPG)
+- [rm]()
 - find
 - ln
 - tar
