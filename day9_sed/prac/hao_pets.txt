@@ -1,0 +1,8 @@
+This is Hao Chen's cat
+  Hao Chen's cat's name is betty
+This is Hao Chen's dog
+  Hao Chen's dog's name is frank
+This is Hao Chen's fish
+  Hao Chen's fish's name is george
+This is Hao Chen's goat
+  Hao Chen's goat's name is adam
