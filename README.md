@@ -26,13 +26,14 @@
 
 ## 以更新命令
 - [rm](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day1_rm/prac.md)
-- find
-- ln
-- tar
-- whereis
-- locate
-- crontab
-- service
+- [find](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day2_find/prac.md)
+- [ln](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day3_ln/prac.md)
+- [tar](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day4_tar/prac.md)
+- [whereis](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day5_whereis/prac.md)
+- [locate](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day6_locate/prac.md)
+- [crontab](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day7_crontab/prac.md)
+- [service](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day8_service/prac.md)
+- [sed](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day9_sed/prac.md)
 
 ## 格式
 - 命令介绍
