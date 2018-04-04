@@ -168,11 +168,11 @@ helloworld \
 
 ### 练习
 
-- 将HTML.txt的标签都删除。保留文本节点
-- 打印hao_pets.txt 1到3行
-- 打印hao_pets.txt包含name的行
-- 删除hao_pets.txt 的最后一行
-- 新增hello world到hao_pets.txt的最后一行
+- 将HTML.txt的标签都删除。保留文本节点。(练习s子命令)
+- 打印hao_pets.txt 1到3行。(练习p子命令)
+- 打印hao_pets.txt包含name的行。(练习p子命令和正则)
+- 删除hao_pets.txt 的最后一行。(练习d子命令)
+- 新增hello world到hao_pets.txt的最后一行。(练习a子命令)
 
 
 
