@@ -142,19 +142,19 @@
 
 
 
-### 使用例子
+## 使用例子
 
 参照见子命令说明
 
 
 
-### OSX使用
+## OSX使用
 
 无
 
 
 
-### 使用注意
+## 使用注意
 
 - 注意`a\` 、`i\`、`c\`等子命令的使用，在mac下使用这三个子命令需要时候，添加的文本需要换行，子命令一行，文本一行。
 
@@ -166,15 +166,63 @@ helloworld \
 
 
 
-### 练习
+
+
+## 进阶使用(新增)
+
+> 这一模块主要总结复杂命令的原理和复杂的组合使用
+
+### pattern space 和Hold space
+
+> pattern space也陈为pattern buffer，简称PS。当sed按行读取文件的时候, 当前读取的行被插入到pattern buffer中, pattern buffer就如同一个内存，用来暂存信息。当你调用p子命令打印的时候或者sed默认的打印都是打印pattern space的内容。
+
+
+
+> hold buffer更像是磁盘，用来长期的存储。所以你可以先将某些数据存储到hold buffer，然后去处理其他的行，并在这一过程中复用hold buffer中将之前存储的数据。
+>
+> 通常我们不会直接操作hold buffer，而是将hold buffer数据追加到pattern buffer。
+
+
+
+- g:  ps = hs
+- G: ps += hs
+- h: hs = ps
+- H: hs += ps
+- x : swap(ps, hs)
+
+**ps表示pattern space，hs表示hold space. g命令把ps当成被赋值的变量（记住gps）**
+
+**sed子命令可以通过分号分隔，然后串行执行**
+
+eg:`sed -n '1!G;h;$p'`
+
+>这个sed命令包含三个子命令, 1!G, h, $p 
+>
+>1!G表示第一行，1!表示除了第一行 p表示打印最后一行
+>
+>- 1.第一行被读取并且被自动插入到PS
+>- 2.在第一行, 第一个命令不会执行，h子命令拷贝第一行到HS
+>- 3.读取到第二行直接将hs中的覆盖掉
+>- 4.在第二行，我们先执行G命令，既ps += hs，将hs中的数据附加到ps中，并且用换行符分隔。ps中这时候将包含第二行、新的一行(\n)、第一行
+>- 5.然后h子命令将，ps中的内容再赋给hs，现在hs也有了一份一样的拷贝
+>- 6.我们接着处理第三行，返回第三点继续
+
+最终最后一行会被p子命令打印出来，并且hs中已经附加了ps，ps会被用p命令打印。这个功能就是最终将一个文件反序打印。
+
+
+
+
+
+
+
+## 练习
 
 - 将HTML.txt的标签都删除。保留文本节点。(练习s子命令)
 - 打印hao_pets.txt 1到3行。(练习p子命令)
 - 打印hao_pets.txt包含name的行。(练习p子命令和正则)
 - 删除hao_pets.txt 的最后一行。(练习d子命令)
 - 新增hello world到hao_pets.txt的最后一行。(练习a子命令)
-
-
+- 将hao_pets.txt逆序打印(练习G、h、p的综合使用)
 
 ## 参考
 
@@ -185,3 +233,5 @@ http://man.linuxde.net/sed
 http://www.cnblogs.com/emanlee/p/3307642.html
 
 https://blog.csdn.net/sun_wangdong/article/details/71078083
+
+https://qianngchn.github.io/wiki/4.html#a%E5%91%BD%E4%BB%A4
