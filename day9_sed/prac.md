@@ -211,18 +211,23 @@ eg:`sed -n '1!G;h;$p'`
 
 
 
-
-
-
-
 ## 练习
 
 - 将HTML.txt的标签都删除。保留文本节点。(练习s子命令)
+
 - 打印hao_pets.txt 1到3行。(练习p子命令)
+
 - 打印hao_pets.txt包含name的行。(练习p子命令和正则)
+
 - 删除hao_pets.txt 的最后一行。(练习d子命令)
+
 - 新增hello world到hao_pets.txt的最后一行。(练习a子命令)
+
 - 将hao_pets.txt逆序打印(练习G、h、p的综合使用)
+
+- 练习正则表达式(可以参考以下提供的连接，练习正则)
+
+  ​
 
 ## 参考
 
