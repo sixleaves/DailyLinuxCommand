@@ -240,3 +240,5 @@ http://www.cnblogs.com/emanlee/p/3307642.html
 https://blog.csdn.net/sun_wangdong/article/details/71078083
 
 https://qianngchn.github.io/wiki/4.html#a%E5%91%BD%E4%BB%A4
+
+https://stackoverflow.com/questions/12833714/the-concept-of-hold-space-and-pattern-space-in-sed/12834372
