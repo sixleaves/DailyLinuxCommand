@@ -34,6 +34,9 @@
 - [crontab](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day7_crontab/prac.md)
 - [service](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day8_service/prac.md)
 - [sed](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day9_sed/prac.md)
+- [file]()
+- [awk]()
+- [xargs]()
 
 ## 格式
 - 命令介绍
