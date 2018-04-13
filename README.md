@@ -37,7 +37,7 @@
 - [file](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day10_file/prac.md)
 - [awk](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day11_awk/prac.md)
 - [xargs](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day12_xargs/prac.md)
-
+- [chown](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day13_chown/prac.md)
 ## 格式
 > (day12之前使用旧格式, 之后使用新格式)
 
