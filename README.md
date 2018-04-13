@@ -39,10 +39,14 @@
 - [xargs](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day12_xargs/prac.md)
 
 ## 格式
+> (day12之前使用旧格式, 之后使用新格式)
+
 - 命令介绍
+- - 命令格式
+- - 命令功能
+- - 依赖知识
+- 今日练习
 - 主要参数
-- 使用例子
 - OSX使用
 - 使用注意
-- 练习
 
