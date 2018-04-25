@@ -31,7 +31,7 @@
 ## 即将更新命令
 
 - [day16_chmod](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day16_chmod/prac.md)  sixleaves认领
-- [md5](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day17_md5/prac.md)
+- [md5](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day17_md5/prac.md)   认领者：[Lisanaaa](https://github.com/Lisanaaa)
 - [shasum](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day18_shasum/prac.md)
 - [nslookup](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day19_nslookup/prac.md)
 - [nslookup](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day20_nslookup/prac.md)
@@ -40,7 +40,7 @@
 
 ## 鼓励
 
-如果你喜欢我的资源，愿意赠送一给感谢费，我会更高兴。
+如果你喜欢我的资源，愿意赠送一点感谢费，我会更高兴。
 
 <figure class="half">
   <img src="https://github.com/sixleaves/DailyLinuxCommand/blob/master/wechat_pay.JPG" width="200px" height="300px" />
