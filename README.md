@@ -8,7 +8,7 @@
 
 
 
-## 以更新命令
+## 已更新命令
 
 - [rm](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day1_rm/prac.md)
 - [find](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day2_find/prac.md)
