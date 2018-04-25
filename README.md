@@ -28,11 +28,15 @@
 
 
 
-## 下次更新命令
+## 即将更新命令
 
 - [chmod](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day16_chmod/prac.md)
-
-
+- [md5](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day17_md5/prac.md)
+- [shasum](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day18_shasum/prac.md)
+- [nslookup](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day19_nslookup/prac.md)
+- [nslookup](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day20_nslookup/prac.md)
+- [tail](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day21_tail/prac.md)
+- [nohup](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day22_nohup/prac.md)
 
 ## 鼓励
 
