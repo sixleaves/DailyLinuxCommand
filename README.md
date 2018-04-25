@@ -30,7 +30,7 @@
 
 ## 即将更新命令
 
-- [chmod](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day16_chmod/prac.md)
+- [day16_chmod](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day16_chmod/prac.md)  sixleaves认领
 - [md5](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day17_md5/prac.md)
 - [shasum](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day18_shasum/prac.md)
 - [nslookup](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day19_nslookup/prac.md)
