@@ -7,7 +7,35 @@
 
 
 
+
+## 以更新命令
+
+- [rm](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day1_rm/prac.md)
+- [find](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day2_find/prac.md)
+- [ln](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day3_ln/prac.md)
+- [tar](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day4_tar/prac.md)
+- [whereis](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day5_whereis/prac.md)
+- [locate](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day6_locate/prac.md)
+- [crontab](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day7_crontab/prac.md)
+- [service](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day8_service/prac.md)
+- [sed](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day9_sed/prac.md)
+- [file](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day10_file/prac.md)
+- [awk](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day11_awk/prac.md)
+- [xargs](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day12_xargs/prac.md)
+- [chown](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day13_chown/prac.md)
+- [du](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day14_du/prac.md)
+- [df](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day15_df/prac.md)
+
+
+
+## 下次更新命令
+
+- [chmod](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day16_chmod/prac.md)
+
+
+
 ## 鼓励
+
 如果你喜欢我的资源，愿意赠送一给感谢费，我会更高兴。
 
 <figure class="half">
@@ -24,22 +52,7 @@
 </figure>
 
 
-## 以更新命令
-- [rm](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day1_rm/prac.md)
-- [find](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day2_find/prac.md)
-- [ln](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day3_ln/prac.md)
-- [tar](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day4_tar/prac.md)
-- [whereis](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day5_whereis/prac.md)
-- [locate](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day6_locate/prac.md)
-- [crontab](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day7_crontab/prac.md)
-- [service](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day8_service/prac.md)
-- [sed](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day9_sed/prac.md)
-- [file](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day10_file/prac.md)
-- [awk](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day11_awk/prac.md)
-- [xargs](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day12_xargs/prac.md)
-- [chown](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day13_chown/prac.md)
-- [du](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day14_du/prac.md)
-- [df](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day15_df/prac.md)
+
 ## 格式
 > (day12之前使用旧格式, 之后使用新格式)
 
