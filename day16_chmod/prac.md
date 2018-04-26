@@ -127,3 +127,16 @@
 ### 使用注意
 
 - 文字表示法比较容易阅读，可维护性比较高，推荐使用
+
+
+
+### 答案
+
+1.`chmod ug+w,o-x temp2018.log`
+
+2.`chmod -R 000 test`
+
+3.`chmod g+x log2018.log`
+
+4.`chmod g-x log2018.log`
+
