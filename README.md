@@ -27,7 +27,7 @@
 - [df](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day15_df/prac.md)
 - [chmod](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day16_chmod/prac.md)
 - [md5](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day17_md5/prac.md)
-
+- [shasum](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day18_shasum/prac.md)
 
 ## 即将更新命令
 
