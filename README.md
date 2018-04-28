@@ -26,14 +26,14 @@
 - [du](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day14_du/prac.md)
 - [df](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day15_df/prac.md)
 - [chmod](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day16_chmod/prac.md)
-- [md5]((https://github.com/sixleaves/DailyLinuxCommand/blob/master/day17_md5/prac.md))
+- [md5](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day17_md5/prac.md))
 
 
 ## 即将更新命令
 
 - [day16_chmod](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day16_chmod/prac.md)  认领者：[sixleaves](https://github.com/sixleaves)
 - [day17_md5](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day17_md5/prac.md)   认领者：[Lisanaaa](https://github.com/Lisanaaa)
-- [shasum](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day18_shasum/prac.md)
+- [day18_shasum](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day18_shasum/prac.md) 认领者：[sixleaves](https://github.com/sixleaves)
 - [nslookup](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day10_nslookup/prac.md)
 - [tail](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day20_tail/prac.md)
 - [nohup](https://github.com/sixleaves/DailyLinuxCommand/blob/master/day21_nohup/prac.md)
